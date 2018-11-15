@@ -1,0 +1,2 @@
+reset
+sphinx-build -aEb html source html
